@@ -13,3 +13,10 @@ stocks = ['AAC','AAME','AAU','AAV','ABAC','ABCD','ABDC','ABEV','ABIL','ABIO','AB
 
 #Configurations for alert
 requiredChangePercentageAmount = 5
+
+# Your Account SID from twilio.com/console
+account_sid = "ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+# Your Auth Token from twilio.com/console
+auth_token  = "your_auth_token"
+destinationPn="+##########"
+sourcePn="+##########"
