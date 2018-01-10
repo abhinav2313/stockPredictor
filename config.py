@@ -15,8 +15,9 @@ stocks = ['AAC','AAME','AAU','AAV','ABAC','ABCD','ABDC','ABEV','ABIL','ABIO','AB
 requiredChangePercentageAmount = 5
 
 # Your Account SID from twilio.com/console
-account_sid = "ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+account_sid = "ACaab5bdab3575f68864b0120771b6df24"
 # Your Auth Token from twilio.com/console
-auth_token  = "your_auth_token"
-destinationPn="+##########"
-sourcePn="+##########"
+auth_token  = "4cda5e74a02e5eab57e94e21c6d66cad"
+destinationPn_1="+15129150327"
+destinationPn_2="+16508671382"
+sourcePn="+15129108323"
